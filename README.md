@@ -2,9 +2,9 @@
 
 ![Estado del proyecto](https://img.shields.io/badge/Estado-En%20desarrollo-yellow.svg)
 ![Versión](https://img.shields.io/badge/Versión-1.0.0-green.svg)
-![Tamaño](https://img.shields.io/github/repo-size/[tu-usuario]/analisis-dispersion-flota.svg)
-![Lenguaje](https://img.shields.io/github/languages/top/[tu-usuario]/analisis-dispersion-flota.svg)
-![Última actualización](https://img.shields.io/github/last-commit/[tu-usuario]/analisis-dispersion-flota.svg)
+![Tamaño](https://img.shields.io/github/repo-size/DanielYes/Analisis_IDF.svg)
+![Lenguaje](https://img.shields.io/github/languages/top/DanielYes/Analisis_IDF.svg)
+![Última actualización](https://img.shields.io/github/last-commit/DanielYes/Analisis_IDF.svg)
 
 
 ## Descripción
